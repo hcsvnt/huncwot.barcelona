@@ -40,4 +40,5 @@ next-env.d.ts
 
 .env
 
-/media
+# temporary media storage
+/src/assets/media/*
